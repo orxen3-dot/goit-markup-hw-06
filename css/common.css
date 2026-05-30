@@ -29,8 +29,7 @@ img {
 p {
   margin: 0;
 }
-.sr-only,
-.features h2 {
+.sr-only {
   position: absolute;
   white-space: nowrap;
   width: 1px;
